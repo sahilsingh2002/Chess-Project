@@ -1,8 +1,8 @@
-#Pygame Chess Game
+# Pygame Chess Game
 
 This is a Player vs Player chess game created using Pygame. It allows two players to play a game of chess on the same computer.
 
-#Installation
+# Installation
 
 To install and run this game, you will need to follow these steps:
 
@@ -11,7 +11,7 @@ Install the Pygame library by running the command pip install pygame.
 Navigate to the pygame-chess-game directory on your local machine.
 Run the command python main.py to start the game.
 
-#How to Play
+# How to Play
 
 To play the game, follow these instructions:
 
@@ -21,7 +21,7 @@ The objective of the game is to checkmate the opponent's king.
 If a player's king is in check, they must move their king out of check or block the attack with another piece.
 The game ends when one player's king is checkmated, or if the game is a draw.
 
-#Features
+# Features
 
 This chess game includes the following features:
 
@@ -31,15 +31,15 @@ A turn-based system that alternates between players.
 A highlight of possible moves for a selected piece.
 The ability to save and load games.
 
-#Code Structure
+# Code Structure
 
 This game is built using object-oriented programming principles in Python. The main.py file contains the main game loop and handles user input. The board.py file contains the logic for the chess board and pieces. The gui.py file contains the Pygame code for drawing the board and pieces on the screen.
 
-#Acknowledgments
+# Acknowledgments
 
 This game was created using the Pygame library and was inspired by other open-source chess games on Github.
 
-#Future Development
+# Future Development
 
 In the future, we plan to add the following features to this game:
 
