@@ -6,10 +6,10 @@ This is a Player vs Player chess game created using Pygame. It allows two player
 
 To install and run this game, you will need to follow these steps:
 
-Clone this repository to your local machine by running the command git clone https://github.com/your-username/pygame-chess-game in your terminal.
-Install the Pygame library by running the command pip install pygame.
-Navigate to the pygame-chess-game directory on your local machine.
-Run the command python main.py to start the game.
+Clone this repository to your local machine by running the command git clone https://github.com/sahilsingh2002/Chess-Project.git in your terminal.
+Install the Pygame library by running the command **pip install pygame**.
+Navigate to the **src** directory on your local machine.
+Run the command python **main.py** to start the game.
 
 # How to Play
 
