@@ -1,0 +1,1 @@
+game.next_turn()
