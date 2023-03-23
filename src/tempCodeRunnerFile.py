@@ -1,1 +1,2 @@
-game.next_turn()
+     dragger.save_initial(event.pos)
+                         
