@@ -15,11 +15,11 @@ Run the command python **main.py** to start the game.
 
 To play the game, follow these instructions:
 
-The game starts with the white pieces on the bottom and the black pieces on the top.
-Players take turns moving their pieces by selecting a piece and then selecting a valid move on the board.
-The objective of the game is to checkmate the opponent's king.
-If a player's king is in check, they must move their king out of check or block the attack with another piece.
-The game ends when one player's king is checkmated, or if the game is a draw.
+* The game starts with the white pieces on the bottom and the black pieces on the top.
+* Players take turns moving their pieces by selecting a piece and then selecting a valid move on the board.
+* The objective of the game is to checkmate the opponent's king.
+* If a player's king is in check, they must move their king out of check or block the attack with another piece.
+* The game ends when one player's king is checkmated, or if the game is a draw.
 
 # Features
 
@@ -34,7 +34,7 @@ This chess game includes the following features:
 
 # Code Structure
 
-This game is built using object-oriented programming principles in Python. The main.py file contains the main game loop and handles user input. The board.py file contains the logic for the chess board and pieces. The gui.py file contains the Pygame code for drawing the board and pieces on the screen.
+This game is built using object-oriented programming principles in Python. The main.py file contains the main game loop and handles user input. The board.py file contains the logic for the chess board and pieces. other .py files contain the Pygame code for drawing the board and pieces on the screen.
 
 # Acknowledgments
 
