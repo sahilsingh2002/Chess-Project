@@ -44,6 +44,6 @@ This game was created using the Pygame library and was inspired by other open-so
 
 In the future, we plan to add the following features to this game:
 
-An AI opponent to play against.
-Online multiplayer capabilities.
-A database to store game histories and player statistics.
+* An AI opponent to play against.
+* Online multiplayer capabilities.
+* A database to store game histories and player statistics.
