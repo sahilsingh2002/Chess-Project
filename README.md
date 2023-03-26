@@ -25,12 +25,12 @@ The game ends when one player's king is checkmated, or if the game is a draw.
 
 This chess game includes the following features:
 
-A graphical user interface built using Pygame.
-Legal move validation, including en passant, castling, and promotion.
-A turn-based system that alternates between players.
-A highlight of possible moves for a selected piece.
-Changing themes using key **t**.
-Restarting Game using key **r**.
+A graphical user interface built using Pygame.\n
+Legal move validation, including en passant, castling, and promotion.\n
+A turn-based system that alternates between players.\n
+A highlight of possible moves for a selected piece.\n
+Changing themes using key **t**.\n
+Restarting Game using key **r**.\n
 
 # Code Structure
 
