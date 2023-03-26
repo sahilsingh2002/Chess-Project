@@ -29,7 +29,8 @@ A graphical user interface built using Pygame.
 Legal move validation, including en passant, castling, and promotion.
 A turn-based system that alternates between players.
 A highlight of possible moves for a selected piece.
-The ability to save and load games.
+Changing themes using key **t**.
+Restarting Game using key **r**.
 
 # Code Structure
 
